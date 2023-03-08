@@ -1,0 +1,62 @@
+body{
+
+    background-color: rgb(179, 233, 255);
+    font-size: 27px;
+}
+
+h1{
+
+    border-bottom: 20px;
+    border: double;
+    border-color: rgb(222, 89, 255);
+    background-color: rgb(233, 166, 212);
+    font-size: 46px;
+}
+
+h2{
+
+    background-color: rgb(179, 186, 255);
+    font-size: 36px;
+    width: 200px;
+
+}
+
+h3{
+
+    background-color: rgba(194, 248, 227, 0.836);
+    opacity: 1,0;
+    font-size: 34px;
+    
+}
+
+h4{
+
+    background-color: rgb(243, 235, 192);
+    font-size: 29px;
+    width: 200px;
+}
+
+.p{
+
+    font-size: 120px;
+}
+
+footer {
+
+    border-bottom: 20px;
+    border: double;
+    border-color: rgb(168, 152, 184);
+    background-color: rgb(255, 196, 240);
+    font-size: 23px;
+}
+
+.rodape {
+
+    border-bottom: 30px;
+    border: double;
+    border-color: rgb(237, 165, 255);
+    background-color: rgb(233, 166, 212);
+    font-size: 25px;
+
+
+}
